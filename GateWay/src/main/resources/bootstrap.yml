@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    active: latest
+  application:
+    name: service-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.31.80:30048
+        enabled: false
+      config:
+        server-addr: 192.168.31.80:30048
+        namespace: a18a97c9-756b-4841-8fb6-f64f0851f623
+        secret-key: 63d45cbe86f17692a04ace3aebcd5a7b
+        file-extension: yaml
+        group: DEFAULT_GROUP

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../auth/Auth.iml" filepath="$PROJECT_DIR$/../../auth/Auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GateWay.iml" filepath="$PROJECT_DIR$/GateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GateWay2/GateWay2.iml" filepath="$PROJECT_DIR$/../GateWay2/GateWay2.iml" />
+    </modules>
+  </component>
+</project>
