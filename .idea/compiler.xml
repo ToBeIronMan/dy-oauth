@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zjx-cloud" />
+        <module name="Auth" />
+        <module name="GateWay" />
       </profile>
     </annotationProcessing>
   </component>
